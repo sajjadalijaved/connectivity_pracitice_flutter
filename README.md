@@ -1,4 +1,4 @@
-# connectivity_practice
+## connectivity_practice_flutter
 
 A new Flutter project.
 
